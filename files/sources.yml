@@ -1,8 +1,0 @@
-sources:
-  - name: banking_raw
-    database: BANKING_DB
-    schema: RAW
-    tables:
-      - name: customers
-      - name: accounts
-      - name: transactions
